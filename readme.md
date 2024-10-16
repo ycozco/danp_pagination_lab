@@ -561,5 +561,3 @@ URLSession.shared.dataTaskPublisher(for: url)
 - **Random User API**: [randomuser.me](https://randomuser.me/)
 
 ---
-
-¡Espero que esta guía detallada y el código proporcionado te sean de ayuda en tu proyecto! Si tienes más preguntas o necesitas más información sobre algún aspecto específico, no dudes en preguntar.
